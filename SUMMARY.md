@@ -1,5 +1,7 @@
 # 목차
 
+* [Ripe Protocol](README.md)
+
 ## 핵심 프로토콜
 
 - [GREEN 스테이블코인](core-protocol/01-green-stablecoin.md)
