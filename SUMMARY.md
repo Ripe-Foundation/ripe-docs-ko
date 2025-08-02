@@ -27,3 +27,9 @@
 - [가격 오라클](resources-and-history/12-price-oracles.md)
 - [Ripe 아카이브](resources-and-history/13-archives.md)
 - [자주 묻는 질문](resources-and-history/faq.md)
+
+## 개발자
+
+* [기술 문서](https://ripe-finance.gitbook.io/ripe-developers)
+* [배포된 컨트랙트](https://ripe-finance.gitbook.io/ripe-developers/deployments)
+* [GitHub](https://github.com/Ripe-Foundation/ripe-protocol)
