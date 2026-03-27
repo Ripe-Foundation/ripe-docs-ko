@@ -222,7 +222,7 @@ Ripe는 GREEN/USDC 유동성 풀을 건강 지표로 모니터링합니다. 정�
 
 **어떻게 작동하나요?**
 
-Underscore Earn Vaults는 자동화된 수익 전략입니다. 핵심 Vaults는 기본 AI 관리형 수익 레이어를 담당하며 Ripe에 담보로 예치할 수 있습니다. Amplified Vaults는 여기서 한 단계 더 나아가 전략 내부에서 Ripe로 GREEN을 차입해 두 번째 수익 레이어를 더합니다:
+Underscore Earn Vaults는 자동화된 수익 전략입니다. 핵심 Vaults는 기본 AI 관리형 수익 레이어를 담당하며 Ripe에 담보로 예치할 수 있습니다. Amplified Vaults는 여기서 한 단계 더 나아가 전략 내부에서 Ripe로부터 GREEN을 차입해 두 번째 수익 레이어를 더합니다:
 
 ```
 표준 차입 금리: APR 6%
@@ -241,7 +241,7 @@ Underscore Vault 금리: APR 3% (50% 할인)
 
 **왜 우대 조건을 제공하나요?**
 
-Underscore와 Ripe는 긴밀하게 정렬된 프로토콜입니다. Underscore Vaults가 만들어내는 모든 성과 수수료는 RIPE 토큰 바이백에 사용되어 RIPE 보유자에게 직접 혜택을 줍니다. 그 대가로 Underscore Vaults는 할인된 차입 조건을 받아 두 생태계가 모두 이익을 얻는 상호보완적 관계를 형성합니다.
+Underscore와 Ripe는 긴밀하게 협력하는 프로토콜입니다. Underscore Vaults가 만들어내는 모든 성과 수수료는 RIPE 토큰 바이백에 사용되어 RIPE 보유자에게 직접 혜택을 줍니다. 그 대가로 Underscore Vaults는 할인된 차입 조건을 받아 두 생태계가 모두 이익을 얻는 공생 관계를 형성합니다.
 
 ## 대출 한도 및 안전
 

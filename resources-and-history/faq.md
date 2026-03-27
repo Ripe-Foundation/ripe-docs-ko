@@ -197,7 +197,7 @@ RIPE는 프로토콜의 [거버넌스](../governance-and-economics/09-governance
 - **22.2%** Ripe 재단 금고
 - **20.6%** 핵심 기여자 (1년 잠금, 그 후 4년 베스팅)
 - **17.2%** 초기 후원자 ($0.02에 $550k 시드)
-- **15%** 배포 파트너 (Hightop)
+- **15%** 유통 파트너 (Hightop)
 
 모든 베스팅은 투명한 계약을 통해 온체인에서 진행됩니다. 자세한 내용은 [RIPE 토큰노믹스](../governance-and-economics/08-ripe-tokenomics.md)에서 확인하세요.
 
@@ -237,7 +237,7 @@ RIPE는 프로토콜의 [거버넌스](../governance-and-economics/09-governance
 
 ### Ripe는 감사를 받았습니까?
 
-ChainSecurity는 작년에 코드를 검토했지만, Underscore와 Hightop의 라이브 운영 경험에서 얻은 교훈을 바탕으로 리팩토링을 진행했습니다. 온체인 거버넌스, Juice Score, NFT, GREEN 채권, 복잡한 DeFi 어댑터를 제거했습니다. 오늘 출시되는 더 간소해진 v1은 아직 재감사를 받지 않았습니다. 포지션 크기를 결정할 때 이 점을 유의하시기 바랍니다.
+ChainSecurity는 작년에 코드를 검토했지만, Underscore와 Hightop 내 라이브 운영 경험에서 얻은 교훈을 바탕으로 리팩토링을 진행했습니다. 온체인 거버넌스, Juice Score, NFT, GREEN 채권, 복잡한 DeFi 어댑터를 제거했습니다. 오늘 출시되는 더 간소해진 v1은 아직 재감사를 받지 않았습니다. 포지션 크기를 결정할 때 이 점을 유의하시기 바랍니다.
 
 ### Ripe는 자산을 어떻게 정확하게 평가합니까?
 
