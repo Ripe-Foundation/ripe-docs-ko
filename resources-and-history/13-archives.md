@@ -98,9 +98,9 @@ _Ripe의 경제 모델의 기본 개념_
 - [Mick이 Ripe의 작동 원리를 설명합니다 (화이트보드)](https://vimeo.com/794192136) – 창립자가 직접 Ripe의 아키텍처를 소개하는 영상
 - [Ripe의 작동 원리 (설명 동영상)](https://vimeo.com/762340017) – Ripe Protocol의 주요 메커니즘을 애니메이션으로 설명한 영상
 
-### Hightop 전환
+### Hightop 일시 중단
 
-_Ripe Protocol에 전적으로 집중하기로 결정한 이유_
+_Hightop을 일시 중단하고 Ripe Protocol 인프라에 전적으로 집중하던 시기의 역사적 맥락_
 
 - [Hightop Sunset, Ripe Sunrise](https://medium.com/hightop/hightop-sunset-ripe-sunrise-b2559ff9a7e4) – 기본 인프라를 구축하기 위해 소비자 앱을 중단한 이유
 - [우리는 DeFi에 집중합니다](https://medium.com/hightop/were-doubling-down-on-defi-ce93fa457328) – 분산화의 미래에 대한 우리의 확신
