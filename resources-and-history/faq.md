@@ -269,7 +269,7 @@ Ripe는 자동 폴백이 가능한 [다중 오라클 시스템](12-price-oracles
 ### 더 알아보려면?
 
 - [**문서**](../): 문서에 상세한 가이드
-- [**디스코드**](https://discord.gg/Y6PWmndNaC): 활발한 커뮤니티 및 팀 지원
+- [**디스코드**](https://discord.gg/hightop): 활발한 커뮤니티 및 팀 지원
 - [**트위터**](https://x.com/ripe_dao): 프로토콜 업데이트 및 공지
 - [**GitHub**](https://github.com/Ripe-Foundation/ripe-protocol): 오픈 소스 코드 및 개발
 - [**홈페이지**](https://www.ripe.finance/): Ripe 홈페이지

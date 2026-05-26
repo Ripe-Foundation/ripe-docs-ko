@@ -210,7 +210,7 @@ sGREEN으로 스왑. 노트북 닫기. 더 부자가 되어 돌아오기. 그게
 
 ### 연결 & 학습
 
-* **Discord**: [커뮤니티 참여](https://discord.gg/Y6PWmndNaC) — 도움 받기, 전략 공유, 다른 사용자와 연결
+* **Discord**: [커뮤니티 참여](https://discord.gg/hightop) — 도움 받기, 전략 공유, 다른 사용자와 연결
 * **Twitter/X**: [@RipeProtocol](https://x.com/ripe_dao) — 최신 업데이트와 공지사항
 * **Blog**: [Medium](https://medium.com/ripe-finance) — 심층 분석과 프로토콜 인사이트
 * **GitHub**: [ripe-foundation](https://github.com/Ripe-Foundation/ripe-protocol) — 오픈 소스 코드와 개발
