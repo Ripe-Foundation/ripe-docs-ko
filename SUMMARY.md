@@ -27,6 +27,7 @@
 - [가격 오라클](resources-and-history/12-price-oracles.md)
 - [Ripe 아카이브](resources-and-history/13-archives.md)
 - [자주 묻는 질문](resources-and-history/faq.md)
+- [보안 감사](resources-and-history/audits.md)
 
 ## 개발자
 
