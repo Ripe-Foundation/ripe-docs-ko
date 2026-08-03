@@ -142,6 +142,14 @@ GREEN을 방어하고 수익을 창출하며 연중무휴 24시간 작동하는 
 * **자동 폴백** - 단일 장애 지점 없음
 * **오래된 데이터 방지** - 항상 최신 가격
 
+#### 🛡️ [보안 감사: 공개된 보안 평가](resources-and-history/audits.md)
+
+ChainSecurity와 Anatomist가 수행한 Ripe Protocol의 독립적인 보안 검토입니다.
+
+* **독립적인 검토** - ChainSecurity 및 Anatomist
+* **전체 보고서** - 두 보고서 전문 공개
+* **날짜 및 범위** - 검토된 코드 버전과 범위 제한
+
 #### 📚 [프로토콜 아카이브: 출시까지의 여정](resources-and-history/13-archives.md)
 
 초기 구상부터 수년간의 개선을 거쳐 프로토콜 출시까지 Ripe의 진화를 탐험하세요.

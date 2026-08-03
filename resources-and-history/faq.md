@@ -237,7 +237,7 @@ RIPE는 프로토콜의 [거버넌스](../governance-and-economics/09-governance
 
 ### Ripe는 감사를 받았습니까?
 
-ChainSecurity는 작년에 코드를 검토했지만, Underscore와 Hightop에서의 라이브 운영 경험에서 얻은 교훈을 바탕으로 리팩토링을 진행했습니다. 온체인 거버넌스, Juice Score, NFT, GREEN 채권, 복잡한 DeFi 어댑터를 제거했습니다. 오늘 출시되는 더 간소해진 v1은 아직 재감사를 받지 않았습니다. 포지션 크기를 결정할 때 이 점을 유의하시기 바랍니다.
+Ripe Protocol은 ChainSecurity와 Anatomist의 독립적인 보안 검토를 받았습니다. 각 검토는 보고서에 명시된 특정 코드 버전과 범위에만 적용되며, 이후 변경 사항은 포함되지 않을 수 있습니다. 공개 보고서와 범위에 대한 자세한 내용은 [보안 감사](audits.md)를 참조하세요.
 
 ### Ripe는 자산을 어떻게 정확하게 평가합니까?
 
