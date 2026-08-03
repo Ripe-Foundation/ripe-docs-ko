@@ -237,7 +237,7 @@ RIPE는 프로토콜의 [거버넌스](../governance-and-economics/09-governance
 
 ### Ripe는 감사를 받았습니까?
 
-Ripe Protocol은 ChainSecurity와 Anatomist의 독립적인 보안 검토를 받았습니다. 각 검토는 보고서에 명시된 특정 코드 버전과 범위에만 적용되며, 이후 변경 사항은 포함되지 않을 수 있습니다. 공개 보고서와 범위에 대한 자세한 내용은 [보안 감사](audits.md)를 참조하세요.
+ChainSecurity는 이전 Ripe Finance 스마트 컨트랙트 아키텍처를 검토했고, Anatomist는 이후 Ripe Protocol 코드 버전을 검토했습니다. 각 검토는 보고서에 명시된 특정 코드 버전과 범위에만 적용되며, 이후 변경 사항이나 배포는 포함되지 않을 수 있습니다. 공개 보고서와 범위에 대한 자세한 내용은 [보안 감사](audits.md)를 참조하세요.
 
 ### Ripe는 자산을 어떻게 정확하게 평가합니까?
 

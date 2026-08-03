@@ -146,7 +146,7 @@ GREEN을 방어하고 수익을 창출하며 연중무휴 24시간 작동하는 
 
 ChainSecurity와 Anatomist가 수행한 Ripe Protocol의 독립적인 보안 검토입니다.
 
-* **독립적인 검토** - ChainSecurity 및 Anatomist
+* **독립적인 검토** - ChainSecurity와 Anatomist
 * **전체 보고서** - 두 보고서 전문 공개
 * **날짜 및 범위** - 검토된 코드 버전과 범위 제한
 
