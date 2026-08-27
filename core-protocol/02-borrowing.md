@@ -167,7 +167,7 @@ GREEN 70%에서 비율 가산분(기본 금리의 100%): +5%
 
 * **지갑으로 GREEN 수령.** 가장 유연합니다. 스왑하고, 사용하고, 보유할 수 있습니다.
 * **sGREEN.** 같은 거래에서 대출 금액이 [sGREEN](../earning-and-rewards/01-sgreen.md)으로 래핑되어 즉시 수익을 내기 시작합니다. sGREEN 수익률이 대출 금리보다 높으면 양의 캐리가 생깁니다.
-* **sGREEN을 안정화 풀로 전송.** 한 번에 래핑하여 원하는 [안정화 풀](../earning-and-rewards/02-stability-pools.md)에 예치합니다. sGREEN 수익, 청산 수익, [RIPE 보상](../earning-and-rewards/03-ripe-rewards.md)을 함께 얻습니다. 유동성은 가장 낮지만 가장 많은 기능이 작동합니다.
+* **sGREEN을 안정화 풀로 전송.** 한 번에 래핑하여 프로토콜이 지정한 [안정화 풀](../earning-and-rewards/02-stability-pools.md)에 예치합니다. sGREEN 수익, 청산 수익, [RIPE 보상](../earning-and-rewards/03-ripe-rewards.md)을 함께 얻습니다. 유동성은 가장 낮지만 가장 많은 기능이 작동합니다.
 
 래핑하기에 너무 작은 잔여분은 건너뛰고 일반 GREEN으로 전송됩니다.
 
