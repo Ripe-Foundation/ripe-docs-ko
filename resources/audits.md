@@ -10,8 +10,8 @@ description: Ripe Protocol에 대한 독립적인 보안 감사.
 
 [ChainSecurity 보고서 읽기](https://www.hightop.com/docs/resources/audits/ChainSecurity-Ripe.pdf)
 
-- **검토된 버전:** 2024년 1월 10일부터 2025년 1월 17일까지 전달된 이전 Ripe Finance 스마트 컨트랙트 아키텍처의 코드 버전 9개
-- **범위:** `contracts/` 아래의 스마트 컨트랙트. 모의(mock) 및 설정 파일과 경제 모델링은 제외되었습니다.
+- **검토된 버전:** 2024년 1월 10일부터 2025년 1월 17일까지 전달받은 기존 Ripe Finance 스마트 컨트랙트 코드 개정본 9개
+- **범위:** `contracts/` 아래의 스마트 컨트랙트. 목(mock) 파일, 설정 파일, 경제 모델링은 제외되었습니다.
 
 ## Anatomist
 

@@ -188,7 +188,7 @@ Ripe가 운영되는 모든 체인을 합해 총 10억 RIPE입니다. 네트워�
 
 ### Ripe 본드는 무엇인가요?
 
-[본드](../governance-and-economics/03-bonds.md)는 스테이블코인을 현재 에폭 가격의 RIPE로 교환합니다. RIPE를 잠그면 보너스를 받고, 본드 부스터(Bond Booster)를 획득했다면 더할 수 있습니다. 대금은 [Endaoment](../core-protocol/07-endaoment.md) 트레저리로 갑니다.
+[본드](../governance-and-economics/03-bonds.md)는 스테이블코인을 현재 에폭 가격의 RIPE로 교환합니다. RIPE를 잠그면 보너스를 받고, 본드 부스터를 획득했다면 더할 수 있습니다. 대금은 [Endaoment](../core-protocol/07-endaoment.md) 트레저리로 갑니다.
 
 ### RIPE Reserve Engine은 무엇인가요?
 
