@@ -20,7 +20,7 @@ Borrow 페이지에 예치한 모든 자산은 하나의 대출을 위한 [담�
 
 **5단계.** 완료되었습니다. 예치한 수량이 **Your Deposits** 열에 표시되고, 페이지 위쪽 패널의 합계가 업데이트됩니다.
 
-여기서 **Your Total Deposits**와 **Your Total Collateral**이 다를 수 있습니다. 대출 한도(0보다 큰 LTV)가 있는 자산만 대출 가능 금액을 늘립니다. sGREEN, LP 토큰, RIPE 같은 Earn 포지션은 늘리지 않습니다. 그렇다고 안정화 풀에 있는 sGREEN과 GREEN LP가 대출과 완전히 분리된 것은 아닙니다. 포지션을 구해야 할 때 [디레버리지](../core-protocol/05-deleverage.md)가 먼저 사용하는 자산이 바로 이 둘입니다. 잠긴 RIPE는 건드리지 않습니다. 어떤 자산이 담보로 인정되는지는 Borrow 표에서 실시간으로 확인하세요.
+여기서 **Your Total Deposits**와 **Your Total Collateral**이 다를 수 있습니다. LTV가 0이 아닌 자산만 대출 한도를 늘립니다. sGREEN, LP 토큰, RIPE 같은 Earn 포지션은 늘리지 않습니다. 그렇다고 안정화 풀에 있는 sGREEN과 GREEN LP가 대출과 완전히 분리된 것은 아닙니다. 포지션을 구해야 할 때 [디레버리지](../core-protocol/05-deleverage.md)가 먼저 사용하는 자산이 바로 이 둘입니다. 잠긴 RIPE는 건드리지 않습니다. 어떤 자산이 담보로 인정되는지는 Borrow 표에서 실시간으로 확인하세요.
 
 ![예치 후의 포지션](../.gitbook/assets/user-guide-06-position-dashboard.png)
 
