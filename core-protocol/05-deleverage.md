@@ -87,7 +87,7 @@ sGREEN 또는 스테이블코인 포지션 중 어떤 것을 어떤 순서로 �
 
 ## [Underscore](https://underscore.finance/) 볼트를 사용하나요?
 
-Underscore 볼트는 디레버리지를 포함한 자체 Ripe 포지션을 관리합니다. 사용자가 출금할 때 볼트가 어떻게 대출하고, 디레버리지하고, 조정하는지는 해당 볼트에 따라 다릅니다. [Underscore Protocol 통합](02-borrowing.md#underscore-earn-볼트-통합)을 참조하세요.
+Underscore 볼트는 디레버리지를 포함한 자체 Ripe 포지션을 관리합니다. 볼트가 대출과 디레버리지를 관리하고 사용자의 출금에 맞춰 포지션을 조정하는 방식은 볼트마다 다릅니다. [Underscore Protocol 통합](02-borrowing.md#underscore-earn-볼트-통합)을 참조하세요.
 
 ## 디레버리지 권한 위임
 
