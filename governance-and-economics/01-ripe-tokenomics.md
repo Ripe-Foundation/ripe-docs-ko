@@ -103,7 +103,7 @@ Ripe는 대부분 빌더의 자체 자금으로 부트스트랩했습니다. 프
 
 **기관 파트너**
 
-* [**OrangeDAO**](https://www.orangedao.xyz/): YCombinator 동문 네트워크(자문 배정도 포함)
+* [**OrangeDAO**](https://www.orangedao.xyz/dao): Y Combinator 동문 네트워크(자문 배정도 포함)
 * [**Big Brain**](https://www.bigbrain.holdings/): 암호화폐 전문 VC
 * [**Tetranode**](https://x.com/Tetranode): 주요 DeFi 투자자/고래
 

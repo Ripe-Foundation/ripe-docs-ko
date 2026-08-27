@@ -156,7 +156,7 @@ ChainSecurity와 Anatomist가 수행한 Ripe Protocol의 독립적인 보안 검
 
 * **독립적인 검토** — ChainSecurity와 Anatomist
 * **전체 보고서** — 두 보고서 전문 공개
-* **날짜 및 범위** — 검토된 코드 리비전과 범위 제한
+* **날짜 및 범위** — 검토된 코드 개정본과 범위 제한
 
 #### 📚 [프로토콜 아카이브: 출시까지의 여정](resources/archives.md)
 
