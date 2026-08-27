@@ -1,0 +1,22 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  undefined/01-green-stablecoin: core-protocol/01-green-stablecoin.md
+  undefined/02-borrowing: core-protocol/02-borrowing.md
+  undefined/03-collateral-assets: core-protocol/03-collateral-assets.md
+  undefined/04-liquidations: core-protocol/04-liquidations.md
+  undefined-1/05-sgreen: earning-and-rewards/01-sgreen.md
+  undefined-1/06-stability-pools: earning-and-rewards/02-stability-pools.md
+  undefined-1/07-ripe-rewards: earning-and-rewards/03-ripe-rewards.md
+  undefined-2/08-ripe-tokenomics: governance-and-economics/01-ripe-tokenomics.md
+  undefined-2/09-governance: governance-and-economics/02-governance.md
+  undefined-2/10-bonds: governance-and-economics/03-bonds.md
+  undefined-2/11-endaoment: core-protocol/07-endaoment.md
+  undefined-3/12-price-oracles: core-protocol/06-price-oracles.md
+  undefined-3/13-archives: resources/archives.md
+  undefined-3/audits: resources/audits.md
+  undefined-3/faq: resources/faq.md
