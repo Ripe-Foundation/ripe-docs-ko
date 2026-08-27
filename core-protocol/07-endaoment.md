@@ -123,7 +123,7 @@ Endaoment는 표준화된 어댑터("Legos") 레지스트리를 가진 [Undersco
 * **sGREEN 수익**: [sGREEN](../earning-and-rewards/01-sgreen.md) 보유자에게 전달됩니다.
 * **거버넌스 배정**: RIPE 바이백을 위해 GREEN으로 거버넌스에 전송됩니다.
 
-배분 비율은 거버넌스 설정이며 기본값에서는 100%가 sGREEN으로 갑니다. 프로토콜은 GREEN만 이동합니다. RIPE 바이백은 거버넌스가 별도로 실행하는 작업입니다. [RIPE 가치 축적](../governance-and-economics/01-ripe-tokenomics.md#ripe-가치-축적)을 참조하세요.
+배분 비율은 거버넌스 설정이며 기본값에서는 100%가 sGREEN으로 갑니다. 프로토콜은 GREEN만 이동합니다. RIPE 바이백은 거버넌스가 별도로 실행하는 작업입니다. [RIPE 가치 축적](../governance-and-economics/01-ripe-tokenomics.md#ripe)을 참조하세요.
 
 ### 트레저리 수익
 
