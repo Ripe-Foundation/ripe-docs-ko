@@ -13,7 +13,7 @@ description: Earn에 예치할 수 있는 자산을 비교하세요
 | **RIPE** | 프로토콜의 거버넌스 토큰 | **Get RIPE**를 누르거나 다른 네트워크에서 **Bridge RIPE** 사용([RIPE를 구하고 잠그기](06-get-and-lock-ripe.md)) |
 | **RIPE LP** (여기서는 RIPE/WETH) | RIPE 풀에서 사용자가 보유한 지분 | Uniswap V2로 연결되는 **Get RIPE/WETH LP** 사용 |
 
-네 가지 모두 방식은 같습니다. **Get** 링크로 토큰을 구한 다음 Ripe에 예치합니다. Get 링크는 항상 올바른 거래소를 가리키므로 사용자가 직접 풀을 찾을 필요가 없습니다. 임의로 풀을 검색해 사용하지 마세요.
+네 가지 모두 방식은 같습니다. **Get** 링크로 토큰을 구한 다음 Ripe에 예치합니다. Get 링크는 항상 올바른 거래소를 가리키므로 사용자가 직접 풀을 찾을 필요가 없습니다. 별도로 풀을 검색해 사용하지 마세요.
 
 내부적으로는 두 종류로 나뉩니다. RIPE와 RIPE LP는 잠금과 포인트를 다루는 거버넌스 볼트로 들어갑니다. sGREEN과 GREEN LP는 시장보다 낮은 가격으로 청산 담보를 매수하는 [안정화 풀](../earning-and-rewards/02-stability-pools.md)로 들어갑니다.
 
